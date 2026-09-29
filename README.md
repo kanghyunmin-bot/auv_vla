@@ -377,3 +377,10 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 See [the real-training guide](docs/KMU26_REAL_TRAINING.md) for the opt-in
 `kmu26_auv_real_v2` profile, complete action windows, checkpoint compatibility,
 and validation. Simulator-only integration is maintained separately on `uuvsim`.
+
+## This is the `uuvsim` branch
+
+See [the separate simulator integration](examples/uuvsim/README.md), paired with
+the collector fork's `uuvsim` branch. The physical adapter defaults in
+`gr00t/deployment` remain conservative; simulator settings belong to the separate
+ROS package under `examples/uuvsim`.

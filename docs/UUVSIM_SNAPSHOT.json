@@ -1,0 +1,14 @@
+{
+  "source_repository": "kanghyunmin-bot/ROS2-mujoco-UUVsimulator",
+  "source_commit": "6afe8dd",
+  "scope": "Source working tree snapshot, excluding datasets, model weights, GUI and PPO; includes real-branch integrity fixes",
+  "files": {
+    "examples/uuvsim/kmu26_auv_vla_policy/setup.py": "5eb78dd6df940352767c552c99eb7d5db22ec0ea2a18a3c49f4cb3ed77edf1e4",
+    "examples/uuvsim/kmu26_auv_vla_policy/launch/sim_policy.launch.py": "91c92cc5d94ebbd245d3f7041fa8ab2a375b2b4ac2e5271f64637be253f16d03",
+    "examples/uuvsim/kmu26_auv_vla_policy/kmu26_auv_vla_policy/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "examples/uuvsim/kmu26_auv_vla_policy/kmu26_auv_vla_policy/kmu26_contract.py": "3d4395f0c000814bb60e7877b968ccccd8d20027ce90bdba43911e52c4d46c0b",
+    "examples/uuvsim/kmu26_auv_vla_policy/kmu26_auv_vla_policy/kmu26_ros.py": "0fee096700539bd52db2820b751a9825c54321f50bb945db33c8f9312a4e2f8c",
+    "examples/uuvsim/kmu26_auv_vla_policy/test/test_policy_time.py": "1c95061d03603115405d5812bfa37a67ff619cfe3839345787ca08395b9bb2d4",
+    "examples/uuvsim/kmu26_auv_vla_policy/test/test_http_response.py": "c36cc0d63487edae99e59ac14f2e5cd7e08e0a38191e43e0daffc3e4ec51ea2a"
+  }
+}
